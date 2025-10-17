@@ -62,7 +62,7 @@ real-estate-master/
 ## 🖥️ Demonstração
 
 Você pode visualizar o projeto publicado aqui:
-👉 [GitHub Pages - Projeto Online]([https://viniciuslordron.github.io/Desafio-imobibrasil/])
+👉 [GitHub Pages - Projeto Online]( https://viniciuslordron.github.io/Desafio-imobibrasil/)
 
 Ou acessar o repositório completo:
 📦 [Repositório no GitHub](https://github.com/viniciuslordron/desafio-imobibrasil)
