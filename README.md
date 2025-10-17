@@ -1,45 +1,91 @@
-# real-state
-<p>Real Estate is a one page responsive Bootstrap 4 template. This is a free open source theme, you can use our theme for any purpose, even commercially.</p>
+# 🏡 Desafio Técnico — ImobiBrasil
 
-Version 1.0.0
+Este projeto foi desenvolvido como parte do **teste prático de front-end** para a empresa **ImobiBrasil**.
+O desafio consistia em manipular elementos de uma página HTML utilizando **JavaScript (DOM)** e aplicar **estilizações com CSS**, seguindo instruções específicas.
 
-# Live Preview
-<a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">View Live Preview</a>
+---
 
-# Download Options
-<ul>
-  <li><a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">Dowload latest version on Themes Bootstrap</a></li>
-  <li>Clone the repo: git clone https://github.com/diegovr7/real-estate.git</li>
- </ul>
+## 🚀 Objetivo do Desafio
 
-# External Resources
-<ul>
-  <li>Ionic Icons (https://ionicons.com/)</li>
-  <li>House 1 image by <a href="https://unsplash.com/@sphericity">Étienne Beauregard-Riverin</a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>House 2 by <a href="https://unsplash.com/@jesseroberts">Jesse Roberts</a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>House 3 by <a href="https://unsplash.com/@flopt">Flo Pappert
-</a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>House interior 1 by <a href="https://unsplash.com/@averyklein">avery klein
-    </a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>House interior 2 by <a href="https://unsplash.com/@tutuwords">tutuwords</a>tu tu</a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>House interior 3 by <a href="https://unsplash.com/@heftiba">Toa Heftiba</a> from <a href="https://unsplash.com/@heftiba">Unsplash</a></li>
-  <li>Google Font <a href="https://fonts.google.com/specimen/Titillium+Web">Titillium Web</a></li>
-</li>
+Com base em um modelo HTML fornecido, as seguintes tarefas deveriam ser realizadas:
 
-# Bugs and Issues
-Something is wrong with the theme? Let me know. I’ll help you out and fix the bug as soon as possible. Open a new issue here on GitHub, leave a comment on the template overview page at <a href="https://themesbootstrap.com.mx/templates/real-estate-template.html">Themes Bootstrap</a> or send me an email to <a href="contact@themesbootstrap.com.mx">contact@themesbootstrap.com.mx</a>.
+1. **Alterar texto do cabeçalho:**
+   Substituir o texto *"Largest offer of real estate in the US"* por
+   **"Bem-vindo ao Nosso Site"**.
 
-# About
-Themes Bootstrap is a collection of free to download Bootstrap themes and templates. All templates and themes on Themes Bootstrap are released under the MIT license, you can use them for any purpose, even for commercial projects.
+2. **Reposicionar elemento:**
+   Usando CSS, posicionar o elemento de classe `.hero-details` à **direita** da página.
 
-<ul>
-  <li>https://themesbootstrap.com.mx/</li>
-  <li>https://www.facebook.com/themesbootstrapmx/</li>
- </ul>
- 
-<p>Themes Bootstrap is a project created and maintained by <a href="http://templune.com/">Diego Velázquez</a>, at <a href="https://smartoasis.mx/">Smart Oasis</a></p>
+3. **Alterar imagem dinamicamente:**
+   Utilizando **JavaScript**, trocar a imagem da classe `.img-fluid.desktop-hero` por uma nova (imagem externa ou local).
 
-<p>Themes Bootstrap is based on <a href="https://getbootstrap.com/">Bootstrap</a> created by <a href="https://twitter.com/mdo">Mark Otto</a> and <a href="https://twitter.com/fat">Jacob Thorton</a>.</p>
+4. **Esconder elemento:**
+   Ocultar o elemento com **ID `blog`**.
 
-# Copyright and License
-Copyright (c) 2019 Diego. Code released under the MIT license.
+5. **Mover elemento:**
+   Mover o elemento de **ID `call-to-action`** (originalmente no rodapé) para logo **abaixo do elemento `#hero`**.
+
+6. **Alterar estilo de parágrafo:**
+   O parágrafo com o texto *"The best marketplace to find homes for sale."* deve ficar em **itálico** e com **fundo amarelo**.
+
+---
+
+## 🧩 Tecnologias Utilizadas
+
+* **HTML5**
+* **CSS3**
+* **JavaScript (Manipulação de DOM)**
+* **Git / GitHub**
+
+---
+
+## 📁 Estrutura do Projeto
+
+```
+real-estate-master/
+│
+├── assets/
+│   └── images/        # Imagens utilizadas no projeto
+│
+├── css/
+│   └── style.css      # Estilizações aplicadas
+│
+├── js/
+│   └── script.js      # Manipulações via DOM
+│
+├── index.html         # Arquivo principal
+└── README.md          # Este arquivo
+```
+
+---
+
+## 🖥️ Demonstração
+
+Você pode visualizar o projeto publicado aqui:
+👉 [GitHub Pages - Projeto Online]([https://viniciuslordron.github.io/desafio-imobibrasil](https://viniciuslordron.github.io/Desafio-imobibrasil/))
+
+Ou acessar o repositório completo:
+📦 [Repositório no GitHub](https://github.com/viniciuslordron/desafio-imobibrasil)
+
+---
+
+## 🧠 Aprendizados
+
+Durante o desenvolvimento deste desafio, foi possível reforçar conceitos importantes como:
+
+* Manipulação do **DOM** com JavaScript puro;
+* Aplicação de **estilos dinâmicos** via CSS e JS;
+* **Organização de projeto front-end**;
+* **Boas práticas de versionamento** com Git.
+
+---
+
+## 👨‍💻 Autor
+
+**Vinicius William Lordron**
+💼 Estudante de Sistemas de Informação
+🌐 [LinkedIn](https://www.linkedin.com/in/viniciuslordron) | [GitHub](https://github.com/viniciuslordron)
+
+---
+
+⭐ *Se este repositório te ajudou, considere deixar uma estrela!*
