@@ -62,7 +62,7 @@ real-estate-master/
 ## 🖥️ Demonstração
 
 Você pode visualizar o projeto publicado aqui:
-👉 [GitHub Pages - Projeto Online]([https://viniciuslordron.github.io/desafio-imobibrasil](https://viniciuslordron.github.io/Desafio-imobibrasil/))
+👉 [GitHub Pages - Projeto Online]([https://viniciuslordron.github.io/Desafio-imobibrasil/])
 
 Ou acessar o repositório completo:
 📦 [Repositório no GitHub](https://github.com/viniciuslordron/desafio-imobibrasil)
@@ -84,7 +84,7 @@ Durante o desenvolvimento deste desafio, foi possível reforçar conceitos impor
 
 **Vinicius William Lordron**
 💼 Estudante de Sistemas de Informação
-🌐 [LinkedIn](https://www.linkedin.com/in/viniciuslordron) | [GitHub](https://github.com/viniciuslordron)
+🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-william-lordron-83a94529b/) | [GitHub](https://github.com/viniciuslordron)
 
 ---
 
