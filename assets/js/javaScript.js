@@ -6,20 +6,14 @@ header.textContent = "Bem-vindo ao Nosso Site";
 
 //3 Alterar Imagem: Utilizando JS mude dinamicamente a imagem que está na classe "img-fluid desktop-hero" para outra. Você pode usar imagem da internet ou adicionar um nova na pasta "\assets\images".
 
-document.addEventListener('DOMContentLoaded', () => {
-  const desktopHeroImage = document.querySelector('.img-fluid.desktop-hero');
-  if (desktopHeroImage) {
-    desktopHeroImage.src = 'assets/images/img.png';
-  }
-});
+document.querySelector('.desktop-hero').src = 'assets/images/img.png';
+document.querySelector('.mobile-hero').src = 'assets/images/img.png';
+document.querySelector('.desktop-hero').style.width = '100%';
+document.querySelector('.hero-container-desktop').style.maxHeigth = '80vh';
 
 //4 Esconder elemento: Esconda o elemento de ID "blog".
-document.addEventListener('DOMContentLoaded', () => {
-  const blogElement = document.getElementById('blog');
-  if (blogElement) {
-    blogElement.style.display = 'none';
-  }
-});
+document.querySelector("#blog").style.display='none';
+
 
 //5 Mover elemento: Mova de posição o elemento de ID "call-to-action" que está próximo ao rodapé para a posição logo abaxo o elemento de ID "hero".
 document.addEventListener('DOMContentLoaded', () => {
